@@ -1,0 +1,29 @@
+{
+    "Shooting": {
+        "checkpoints": [
+            {
+                "steps": 499945,
+                "file_path": "results\\CSGOAI9\\Shooting\\Shooting-499945.nn",
+                "reward": 0.22547518185206822,
+                "creation_time": 1605151965.5927813
+            },
+            {
+                "steps": 500304,
+                "file_path": "results\\CSGOAI9\\Shooting\\Shooting-500304.nn",
+                "reward": 0.2175962407555845,
+                "creation_time": 1605151968.7788162
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500304,
+            "file_path": "results\\CSGOAI9\\Shooting.nn",
+            "reward": 0.2175962407555845,
+            "creation_time": 1605151968.7788162
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}
